@@ -6,7 +6,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 source.exclude_dirs = tests, bin
 version = 0.1
-icon.filename = icons/palk_icon.png
+icon.filename = palk_icon.png
 orientation = portrait
 requirements = python3,kivy,kivymd,matplotlib
 source.main = main.py
@@ -21,3 +21,4 @@ fullscreen = 0
 [buildozer]
 log_level = 2
 warn_on_root = 1
+
